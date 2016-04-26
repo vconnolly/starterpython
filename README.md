@@ -1,1 +1,2 @@
 # starterpython
+print("hello world")
